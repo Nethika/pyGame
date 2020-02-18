@@ -23,6 +23,6 @@ Moves the rectangle with arrow keys.
 `game_3.py`
 
 Moves an image with arrow keys
-
+<kbd>
 <img src="images/ss_3.png" width="60%" height="60%">
-
+</kbd>
