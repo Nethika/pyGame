@@ -23,6 +23,31 @@ Moves the rectangle with arrow keys.
 `game_3.py`
 
 Moves an image with arrow keys
-<kbd>
+
 <img src="images/ss_3.png" width="60%" height="60%">
-</kbd>
+
+`game_4.py`
+
+Sample fractal using recursion.
+
+<img src="images/ss_4.png" width="60%" height="60%">
+
+`game_5.py`
+
+creates a fractal tree
+<img src="images/ss_5.png" width="60%" height="60%">
+
+`game_6.py`
+
+Creates a visual of building a fractal tree.
+<img src="images/ss_6_1.png" width="60%" height="60%">
+<img src="images/ss_6_2.png" width="60%" height="60%">
+
+`maze_generation.py`
+
+Generates a Maze.
+<img src="images/maze.png" width="60%" height="60%">
+
+`gif_hilbert.py`
+
+Generate a gif of a hilbert curve
